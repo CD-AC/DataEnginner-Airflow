@@ -1,0 +1,4 @@
+apache-airflow-providers-http
+apache-airflow-providers-postgres
+requests
+astro-run-dag
